@@ -72,7 +72,7 @@ I was able to answer the three research questions mentioned in the Introduction 
 
 <p align="center">
   <img
-  src="![My Image](Happy_image.jpg)"
+  src="!(Happy_image.jpg)"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
