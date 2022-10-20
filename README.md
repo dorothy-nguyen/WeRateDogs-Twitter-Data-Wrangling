@@ -69,7 +69,3 @@ I was able to answer the three research questions mentioned in the Introduction 
 - In term of favorite count, puppos are the winner with almost 20k of favorites which is approximately three times higher than that of puppies. 
 
 **Check out the full report of my analyzation and presentation for charts and viz via [`act_report`](https://github.com/dorothy-nguyen/WeRateDogs-Twitter-Data-Wrangling/blob/main/act_report.ipynb).**
-
-<p align="center">
-  <img src="./Happy_image.JPG">
-</p>
