@@ -35,7 +35,7 @@ Part 1: Data Gathering
 
 I gathered data from three different data sources and combined them together into one final master dataset in order to conduct further analyses and visualizations. Specifically, data comes from twitter_archive_enhanced.csv file, image_predictions.tsv file and @WeRateDogs Twitter API. These three datasets are later combined together into 'twitter_archive_master.csv' file and converted to the final data frame in Pandas based on the common tweet ID key.
 
-If you are interested in further details of these files and how did I process them before merge them into the master data frame, you can check out [`wrangle_report`](https://github.com/dorothy-nguyen/WeRateDogs-Twitter-Data-Wrangling/blob/main/wrangle_report.html).
+If you are interested in further details of these files and how did I process them before merge them into the master data frame, you can check out [`wrangle_report`](https://github.com/dorothy-nguyen/WeRateDogs-Twitter-Data-Wrangling/blob/main/wrangle_report.ipynb).
 
 Part 2: Assessing Data
 
@@ -49,7 +49,7 @@ Next, I applied the Define-Code-Test framework to conduct my cleansing. It means
 
 Part 4: Analyzing Data 
 
-After cleaning process, I merged the three datasets into one final master dataset and exported it to 'twitter_archive_master.csv' file and then loaded it into a Pandas dataframe for analyzing and visulizing part. Find out the full report of my analyzation and presentation via [`act_report`](https://github.com/dorothy-nguyen/WeRateDogs-Twitter-Data-Wrangling/blob/main/act_report.html).
+After cleaning process, I merged the three datasets into one final master dataset and exported it to 'twitter_archive_master.csv' file and then loaded it into a Pandas dataframe for analyzing and visulizing part. Find out the full report of my analyzation and presentation via [`act_report`](https://github.com/dorothy-nguyen/WeRateDogs-Twitter-Data-Wrangling/blob/main/act_report.ipynb).
 
 ## 3. Summary of main findings
 I was able to answer the three research questions mentioned in the Introduction above:
@@ -68,4 +68,8 @@ I was able to answer the three research questions mentioned in the Introduction 
 - On contrary to tweets, retweets and likes get favor for puppos and doggos. 
 - In term of favorite count, puppos are the winner with almost 20k of favorites which is approximately three times higher than that of puppies. 
 
-**Check out the full report of my analyzation and presentation for charts and viz via [`act_report`](https://github.com/dorothy-nguyen/WeRateDogs-Twitter-Data-Wrangling/blob/main/act_report.html).**
+**Check out the full report of my analyzation and presentation for charts and viz via [`act_report`](https://github.com/dorothy-nguyen/WeRateDogs-Twitter-Data-Wrangling/blob/main/act_report.ipynb).**
+
+<p align="center">
+  <img width="482" alt="WRD_twitter_banner" src="[/path/to/img](https://github.com/dorothy-nguyen/WeRateDogs-Twitter-Data-Wrangling/blob/main/Happy_image.JPG).jpg">
+</p>
