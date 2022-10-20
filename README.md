@@ -71,9 +71,5 @@ I was able to answer the three research questions mentioned in the Introduction 
 **Check out the full report of my analyzation and presentation for charts and viz via [`act_report`](https://github.com/dorothy-nguyen/WeRateDogs-Twitter-Data-Wrangling/blob/main/act_report.ipynb).**
 
 <p align="center">
-  <img
-  src="!(Happy_image.jpg)"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  <img src="./Happy_image.jpg">
 </p>
