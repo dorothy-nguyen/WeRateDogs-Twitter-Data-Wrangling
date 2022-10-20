@@ -13,7 +13,9 @@ The dataset that I wrangled is the tweet archive of Twitter user @WeRateDogs whi
 After wrangling data, I conducted analyzing step to produce some interesting and trustworthy insights and visualizations in order to answer three specific research questions:
 
 **Question 1: Is there any correlation between retweet_count/ favorite_count with rating?**
+
 **Question 2: What are the top 10 dog breeds in @WeRateDogs tweets, retweets and likes?**
+
 **Question 3: Which dog stages are tweeted/ retweeted and liked the most in @WeRateDogs tweets?**
 
 ## 2. Software requirements
