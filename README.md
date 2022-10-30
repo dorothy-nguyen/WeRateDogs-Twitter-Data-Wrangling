@@ -51,7 +51,7 @@ Part 4: Analyzing Data
 
 After cleaning process, I merged the three datasets into one final master dataset and exported it to 'twitter_archive_master.csv' file and then loaded it into a Pandas dataframe for analyzing and visulizing part. Find out the full report of my analyzation and presentation via [`act_report`](https://github.com/dorothy-nguyen/WeRateDogs-Twitter-Data-Wrangling/blob/main/act_report.ipynb).
 
-## 3. Summary of main findings
+## 4. Summary of main findings
 I was able to answer the three research questions mentioned in the Introduction above:
 
 **Question 1: Is there any correlation between retweet_count/ favorite_count with rating?**
